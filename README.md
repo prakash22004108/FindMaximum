@@ -26,7 +26,7 @@ def max_marks(marks):
 
 ```
 ### output
-![output](/max_marks1.jpg)
+![output](/o1.png)
 
 ii)	# To find the maximum marks using the list method max().
 ```
