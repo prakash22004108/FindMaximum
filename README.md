@@ -44,7 +44,7 @@ def max_marks(marks):
 
 ```
 ### output
-![output](/o2.png)
+![output](/max_marks2.jpg)
 
 iii) # To find the maximum marks without using builtin functions.
 ```
